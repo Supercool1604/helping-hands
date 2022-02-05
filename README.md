@@ -1,6 +1,6 @@
 # Helping Hands
 
-Hackathon project for Trojan Hacks 2021
+HackSC project.
 
 ## Inspiration
 
